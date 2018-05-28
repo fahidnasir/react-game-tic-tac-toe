@@ -1,0 +1,16 @@
+.container {
+}
+
+.status {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.board {
+  display: grid;
+  align-content: space-evenly;
+  text-align: center;
+  justify-content: center;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+}

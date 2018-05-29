@@ -2,16 +2,18 @@
 
 Tic Tac Toe game made from React JS
 
-Technologies:
+## Technologies:
+
 Nodejs,
 Reactjs,
 JSX,
 CSS3
 
-Components:
+## Components:
+
 CCS-Grid
 
-Resources:
+## Resources:
 
 Technology: https://reactjs.org/
 

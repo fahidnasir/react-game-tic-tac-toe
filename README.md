@@ -2,6 +2,8 @@
 
 Tic Tac Toe game made from React JS
 
+## [Demo](https://fahidnasir.github.io/react-game-tic-tac-toe/)
+
 ## Technologies:
 
 Nodejs,
